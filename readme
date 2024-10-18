@@ -1,0 +1,27 @@
+# Projeto de Testes Automatizados com Cypress e Cucumber
+
+Este é um projeto de testes automatizados utilizando **Cypress** e **Cucumber** para facilitar a escrita de testes em uma linguagem mais legível. O projeto é configurado para rodar testes de interface e API.
+
+## Tecnologias Utilizadas
+
+
+# Pré-requisitos
+
+- Node.js e npm instalados na sua máquina. Você pode baixar o Node.js [aqui](https://nodejs.org/).
+
+
+## Instalação
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/Brunolima96/Advantage-Api-Web.git
+
+
+2. Instale as dependências:
+    npm install
+
+3. Executando os Testes
+    
+    Para abrir a interface do Cypress: npx cypress open
+
