@@ -4,6 +4,11 @@ Este é um projeto de testes automatizados utilizando **Cypress** e **Cucumber**
 
 ## Tecnologias Utilizadas
 
+- **Node.js**: Ambiente de execução JavaScript no lado do servidor.
+- **npm**: Gerenciador de pacotes para instalar dependências.
+- **Cypress**: Ferramenta de teste end-to-end para aplicações web.
+- **Cucumber**: Ferramenta que suporta o desenvolvimento orientado a comportamento (BDD).
+- **cypress-cucumber-preprocessor**: Integra o Cucumber com o Cypress para testes em formato Gherkin.
 
 # Pré-requisitos
 
